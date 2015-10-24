@@ -1,0 +1,3 @@
+vagrant init
+vagrant box add zwadderich/Wisa --provider virtualbox
+

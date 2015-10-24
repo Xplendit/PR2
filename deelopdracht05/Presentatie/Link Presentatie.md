@@ -1,0 +1,2 @@
+# Link presentatie WOP #
+[https://docs.google.com/presentation/d/1gxbo2qG8CDjg5pPVvOElKiesm5iXFRo2AN2jN6INCXI/edit?usp=sharing](https://docs.google.com/presentation/d/1gxbo2qG8CDjg5pPVvOElKiesm5iXFRo2AN2jN6INCXI/edit?usp=sharing)
